@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Implementation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41862</md:content-id>
+  <md:title>Implementation</md:title>
+  <md:abstract/>
+  <md:uuid>0ade7f40-1c29-4685-8b3d-8748c6b6cdc6</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168899280888">
+      <title>Implementation</title>
+      <para id="id1168905953622">We initially began to explore two different methods of detecting emotions from images of faces. The first, more traditional method takes the top down approach classifying all the different facial expressions associated with emotion and what combinations or patterns of these correspond to specific emotions. Then the program looks for these specific expressions and based on what it sees tries to match these expressions to an emotion based on the given classification system. One example of such a prominently used classification is the Facial Action Coding System (FACS) developed in the 70s to taxonomize human facial expressions. This has the advantages of being quick and relatively easy to implement, but it also suffers from a lack of robustness and has a hard time dealing with different types of faces. Many animators and others use this type of approach, but in the end we decided that for the purposes of our project and our goal of a broad based emotion detector this was not the method for us.</para>
+      <para id="id1168903662287">The second method, on the other hand, involves using one of the key capabilities that computers have that humans don't – the ability to quickly intake and analyze large amounts of data – and this was one of the main reasons that we chose it. While the first method involved first coming up with a classification system a priori and then applying it to faces, the second method first 'trains' the program with a large database of images, each image coming with an associated label that indicates what emotion the face is expressing, and then the program is ready to analyze new faces and detect emotions. This approach has the obvious advantage of not requiring any kind of 'given' knowledge or rules – simply working with the provided data. It is uniquely robust, because the algorithm can be continually improved by giving the program more training images and it can very easily be tailored to specific situations of lighting or setting by training it with images with those specific attributes. Furthermore, depending on what you train it with, it could be made to work best only with specific types or groups of people or with a broad range of people. Theoretically, given enough data and time, this type of program should be able to be much more accurate and robust than a human at detecting emotion because it utilizes one of the main strengths of computing relative to the human brain.</para>
+    </section>
+  </content>
+</document>

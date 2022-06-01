@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41855</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>bb82a4ac-fc78-4c38-b06b-11253105d323</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1163900391855">
+      <title>Introduction</title>
+      <para id="id1163901394955">“Reading” someone's face has long been a cheap parlor trick, whereby some claim that a glance at a person is enough for them to tell many things about that person, including their emotional state. With advances in modern computing and signal processing however, it may actually be that we can “train” any computer to more reliably and accurately detect emotions from facial images than a human can. Currently our program only trains a computer how to detect emotions based on images, whereas in the real world humans also analyze tone of voice, language content and body language, among other things to detect emotion. Considering that most current programs only look at facial expressions, there is clearly a large scope to expand the range of data computers analyze in order to produce even more accurate and reliable results.</para>
+    </section>
+  </content>
+</document>

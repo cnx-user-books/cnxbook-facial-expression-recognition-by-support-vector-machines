@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Further Improvements and Conclusions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41873</md:content-id>
+  <md:title>Further Improvements and Conclusions</md:title>
+  <md:abstract/>
+  <md:uuid>36ddd686-b465-4a2a-b2d1-29339a334870</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8724625">
+      <title>Further Improvements and Conclusions</title>
+      <para id="id7684633">One straightforward conclusion we can draw from our project is that when doing emotion recognition with SVMs, larger training sets invariably improve the accuracy of the results. Nevertheless it's currently very hard to find large databases of suitable images, although doubtlessly as computers (and cameras) grow ever more ubiquitous this problem will fade over time. Additionally, it appears that this problem can be at least partially mitigated by using pre-registered users (training the program with images of the same people you test it on). This actually fits in very well with our initial motivation, because we feel like a lot of demand for this type of capability will be for use in personal computing devices of some type, which generally just have very few regular users. Devices could be automatically configured to take a certain number of pictures of a person when they register to use it, such that the device would have high accuracy in detecting that person's emotions.</para>
+      <para id="id8246379">The question of optimal kernel functions remains unresolved, however, because while the linear kernel worked better for our datasets, we did not rigorously test all the possibilities, and our range of datasets was quite limited. One possible future experiment or project could be to test the different kernels on a wide range of datasets and situations, while holding all other variables constant, to try and see what type of data each kernel works better on. </para>
+      <para id="id2399848">Lastly, we feel like this type of program has almost boundless potential since it can only get more accurate with increased computing power and larger datasets. One of the main things we are going to be asking of our computers and especially our artificial intelligence in the future is that it can appropriately interact with humans and respond to all of our needs. Being able to recognize human emotions is thus a vital step on the way to fully achieving this goal.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Motivation and Applications</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41861</md:content-id>
+  <md:title>Motivation and Applications</md:title>
+  <md:abstract/>
+  <md:uuid>2dc4284b-91ed-4656-8202-3eeeb8125c6f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165125175074">
+      <title>Motivation and Applications</title>
+      <para id="id1165135963675">One of the main reasons we chose this project was because of the huge range of possible applications this has. One of the most clearly evident applications is in regards to artificial intelligence. The famous Turing Test marks the beginning of artificial intelligence as the point when a computer program having conversation with a human can fool the human into believing that the computer is a human. Currently this is done solely through text communication, but imagine how much more effective computers could be at emulating humans if they could take visual cues and use them to adjust how they respond to you. Instead of just responding directly to the user's questions, personal phones could judge the user's emotions and then formulate an appropriate response taking that into account. Advertisements could become even more personally targeted and effective as they could respond to emotional cues to decide for example whether or not to keep playing an advertisement or perhaps what type of advertisement to play. This type of technology could even play a crucial role in keeping us safe, as programs could monitor airline pilots looking for signs that their attentiveness was slipping or that they were falling asleep and once this crossed a certain threshold could provide a stimulus to the pilot to ensure full alertness and greatly reduce the risk of fatigue related accidents. In general, almost any type of interaction between a human and a computing device could benefit from this technology.</para>
+    </section>
+  </content>
+</document>

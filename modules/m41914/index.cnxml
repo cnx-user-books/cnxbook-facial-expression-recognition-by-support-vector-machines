@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Limitations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41914</md:content-id>
+  <md:title>Limitations</md:title>
+  <md:abstract/>
+  <md:uuid>dc6619f9-4309-4989-aeac-269b27b9748f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170886550217">
+      <title>Limitations</title>
+      <para id="id1170898301565">One of the main issues associated with this method is finding a good enough dataset because the accuracy of the results is pretty directly tied to the size of the dataset, with more training images usually corresponding to increased accuracy. However, finding large datasets for these purposes proved a harder task than we had initially anticipated. Here we detail the different databases we used for this project:</para>
+      <list id="id5758295" mark-suffix=")" list-type="enumerated" number-style="arabic"><item>FEI Face Database: This database was acquired from the Electrical Engineering Department of Centro Universitario da FEI located in Sao Paulo, Brazil. It contains 200 individuals, with each of the individuals showing two different emotions, happy and neutral, for a total of 400 images.</item>
+        <item>CMU Multi-PIE Face Database: This database was acquired from Carnegie Mellon University and we used a total of 904 pictures from this database. There were 500 pictures of the same 250 individuals showing both happy and neutral faces, along with 404 pictures of the same 202 individuals showing both disgusted and surprised faces.</item>
+        <item>Japanese Female Facial Expression (JAFFE) Database: This database was acquired online though the images were originally obtained at Kyushu University. It contains 213 total images, of 7 facial expressions posed by 10 different female Japanese models. </item>
+      </list>
+    </section>
+  </content>
+</document>

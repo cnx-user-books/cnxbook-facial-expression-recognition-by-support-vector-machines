@@ -1,64 +1,21 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Daryl Arredondo ,Max Chester ,Jiwon Choe ,Kai He">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11391</md:content-id>
-  <md:title>Facial Expression Recognition by Support Vector Machines</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>355637ef-7090-4b10-9a0b-719b5960a66b</md:uuid>
-<md:slug>facial-expression-recognition-by-support-vector-machines</md:slug>
-</metadata>
-
+    <md:content-id>col11391</md:content-id>
+    <md:title>Facial Expression Recognition by Support Vector Machines</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>355637ef-7090-4b10-9a0b-719b5960a66b</md:uuid>
+    <md:slug>facial-expression-recognition-by-support-vector-machines</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m41841"/>
-        
-      
-    
-    
-      <col:module document="m41855"/>
-        
-      
-    
-    
-      <col:module document="m41861"/>
-        
-      
-    
-    
-      <col:module document="m41862"/>
-        
-      
-    
-    
-      <col:module document="m41865"/>
-        
-      
-    
-    
-      <col:module document="m41914"/>
-        
-      
-    
-    
-      <col:module document="m41875"/>
-        
-      
-    
-    
-      <col:module document="m41873"/>
-        
-      
-    
+    <col:module document="m41841"/>
+    <col:module document="m41855"/>
+    <col:module document="m41861"/>
+    <col:module document="m41862"/>
+    <col:module document="m41865"/>
+    <col:module document="m41914"/>
+    <col:module document="m41875"/>
+    <col:module document="m41873"/>
   </col:content>
 </col:collection>
